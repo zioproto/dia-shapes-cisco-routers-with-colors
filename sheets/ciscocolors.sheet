@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
-  <name>Cisco - Saverio</name>
+  <name>Cisco - Routers with colors</name>
   <description>Router and switch shapes by Cisco Colored</description>
   <contents>
 <object name="Cisco - Router Red"><description>Router Red</description></object>
